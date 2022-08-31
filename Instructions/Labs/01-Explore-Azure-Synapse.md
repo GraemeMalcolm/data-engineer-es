@@ -29,7 +29,7 @@ Un *área de trabajo* de Azure Synapse Analytics proporciona un punto central pa
     ```
 5. Una vez clonado el repositorio, escriba los siguientes comandos para cambiar a la carpeta de este laboratorio y ejecute el script **setup.ps1** que contiene:
 
-```
+    ```
     cd dp-000/Allfiles/Labs/01
     ./setup.ps1
     ```
